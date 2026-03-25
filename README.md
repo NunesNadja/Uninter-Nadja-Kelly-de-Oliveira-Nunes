@@ -40,15 +40,6 @@ Este portfolio apresenta informacoes profissionais e academicas em 4 paginas int
 1. Abra a pasta `Uninter` no VS Code.
 2. Abra o arquivo `index.html` no navegador (ou use a extensao Live Server).
 
-## Publicacao no GitHub Pages
-1. Crie um repositorio publico no GitHub.
-2. Envie os arquivos do projeto para a branch `main`.
-3. No GitHub, acesse `Settings` > `Pages`.
-4. Em `Build and deployment`, selecione:
-   - `Source`: `Deploy from a branch`
-   - `Branch`: `main` e pasta `/root`
-5. Aguarde a publicacao e copie o link final.
-
 Exemplo de URL:
 - `https://seu-usuario.github.io/nome-do-repositorio/`
 
