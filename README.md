@@ -5,11 +5,11 @@ Projeto desenvolvido para a disciplina de Fundamentos da Programacao Web, utiliz
 - CSS3 (sem frameworks)
 - JavaScript puro (sem frameworks)
 
-## Visao geral
+## Visão geral
 Este portfolio apresenta informacoes profissionais e academicas em 4 paginas interligadas por menu fixo:
 1. Sobre mim
-2. Formacao
-3. Portfolio
+2. Formação
+3. Portfólio
 4. Contato
 
 ## Estrutura de pastas e arquivos
